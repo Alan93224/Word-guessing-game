@@ -29,7 +29,8 @@ npm create vite@latest my-ai-game --template react
 cd my-ai-game
 npm install
 ```
-
+Framework 選 React
+Variant 選 JavaScript (黃色那個)
 ---
 
 📌 2. 啟動伺服器
