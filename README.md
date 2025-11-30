@@ -30,7 +30,7 @@ cd my-ai-game
 npm install
 ```
 ---
-Framework 選 React
+Framework 選 React  
 variant 選 JavaScript
 ---
 
