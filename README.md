@@ -31,8 +31,7 @@ npm install
 ```
 ---
 Framework 選 React
-
-Variant 選 JavaScript
+variant 選 JavaScript
 ---
 
 📌 2. 啟動伺服器
