@@ -44,11 +44,14 @@ npm run dev
 
 ---
 
-📌 3. 修改 App.jsx  
+📌 3. 修改 App.jsx   
 建立專案後請開啟：
 
 ```bash
 src/App.jsx
 ```
 
-將內容改成你需要的遊戲邏輯（例如 API 呼叫或遊戲規則）。
+將內容改成你需要的遊戲邏輯（例如 API 呼叫或遊戲規則）。  
+
+Demo：
+https://youtu.be/5IqGsdEnZ9g?si=bV2r3mjO6autDsKS
